@@ -31,7 +31,7 @@ Kết quả được sử dụng để hỗ trợ doanh nghiệp thiết kế ch
 
 ## Vai trò của tôi
 
-- **Tiền xử lý Dữ liệu:** Làm sạch, xử lý dữ liệu nhiễu, và **mã hóa dữ liệu giao dịch** sang định dạng nhị phân.
+- **Tiền xử lý dữ liệu:** Làm sạch, xử lý dữ liệu nhiễu, và **mã hóa dữ liệu giao dịch** sang định dạng nhị phân.
 - **Phân tích:** Thực hiện khám phá dữ liệu, **trực quan hóa** và kỹ thuật đặc trưng (**feature engineering**).
 - **Mô hình hóa:** Áp dụng thuật toán **Apriori** để trích xuất tập mục phổ biến (**Frequent Itemsets**).
 - **Đánh giá:** Tạo và đánh giá các **Luật Kết hợp** bằng các chỉ số thống kê (**Support, Confidence, Lift**).
