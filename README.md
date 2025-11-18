@@ -1,6 +1,6 @@
 # 🛒 Ứng dụng Luật Kết hợp trong Phân tích Giỏ hàng Thị trường
 
-**Thời gian:** 10/04/2024 – 20/04/2024
+**Thời gian:** 10/04/2024 – 20/04/2024 <br>
 **Số lượng thành viên:** 5  
 
 
